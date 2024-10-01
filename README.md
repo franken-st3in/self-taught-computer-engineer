@@ -3,4 +3,4 @@
  Electrical & Electronics Engineering: 2hrs/day
  Mathematics: 2hrs/day
 
-Resources: OSSU, MITOCW, EDX, Coursera, etc... [free resources]
+Resources: OSSU, MITOCW, Harvard, Stanford, EDX, Coursera, etc... [free resources]
